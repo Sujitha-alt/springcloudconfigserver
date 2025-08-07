@@ -1,1 +1,1 @@
-"Hello from Config Server!"
+message:"Hello from Config Server!"
